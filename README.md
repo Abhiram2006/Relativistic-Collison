@@ -5,4 +5,5 @@ Solving a Relativity problem using code
 
 Answer approximately 377.2380239698136
 
-![download-4](https://user-images.githubusercontent.com/65448559/182024702-38275168-04c8-4d3a-8ff7-ee61a6240bb8.png)
+
+<img width="425" alt="Screenshot 2022-07-31 at 5 16 04 PM" src="https://user-images.githubusercontent.com/65448559/182024777-cc259df6-1f75-431f-b2ee-f556e5730ffe.png">
